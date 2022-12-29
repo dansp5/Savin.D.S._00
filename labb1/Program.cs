@@ -49,6 +49,18 @@ namespace labb1
                 a.N = 0;
                 t=Environment.TickCount;
                 Sort(a);
+                a.N = a.N;
+                //
+                //
+
+
+                //
+
+
+                //
+
+                //
+                //hahahahaha
                 t = Environment.TickCount - t;
                 Console.WriteLine("Время выполнения: "+t);
             }
